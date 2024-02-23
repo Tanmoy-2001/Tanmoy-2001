@@ -4,6 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5xYjU5ZDV5emo4N2poenBkdjU1c3ozb2RsdGpycHFkYjFwbnNmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJP7EH5i1fB2rKeWbf/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upayansarkar&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoymishra" /> </p>
 
+
+- 👋 Hi, I’m @Tanmoy-2001
+- 👀 Passionate Data Analyst
+- 🌱 Express my Technical Knowledge through my Articles
+- 💞️ I’m looking to collaborate on any type of Business & Data Analytics Project
 - 📫 How to reach me **tanmoymishra20012gmail.com**
 
 <h3 align="left">Connect with me:</h3>
