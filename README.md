@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tanmoy-mishra-152483229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanmoy-mishra-152483229/" height="30" width="40" /></a>
-  <a href="[https://www.linkedin.com/in/tanmoy-mishra-152483229/](https://auth.geeksforgeeks.org/user/tanmoymishra)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg)" alt="https://www.linkedin.com/in/tanmoy-mishra-152483229/" height="30" width=https://auth.geeksforgeeks.org/user/tanmoymishra"40" /></a>
+<a href="https://www.linkedin.com/in/tanmoy-mishra-152483229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanmoy-mishra-152483229/" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/tanmoymishra" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="https://auth.geeksforgeeks.org/user/tanmoymishra" height="30" width="40" /></a>
+
 </p>
 
