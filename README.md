@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tanmoy-2001/Tanmoy-2001/main/assets/profile-banner.svg" alt="Tanmoy Mishra | Software Developer, Data and AI" width="100%"/>
+<img src="./assets/profile-banner.svg" alt="Tanmoy Mishra | Software Developer, Data and AI" width="100%"/>
 
 ### Software Development · Data Analytics · AI/ML
 
