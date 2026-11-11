@@ -73,6 +73,20 @@ I am an MCA graduate focused on software development, data analytics, and applie
 | [Iris Flower Classification](https://github.com/Tanmoy-2001/oibsip_task1) | Classification using the Iris dataset | Machine learning |
 | [Color Detection](https://github.com/Tanmoy-2001/ColorDetection_Task-1) | Image colour detection project | Computer vision |
 
+## New AI / ML Projects
+
+Five new hands-on applications with source code, dependencies, and setup documentation:
+
+| Project | What it demonstrates |
+|---|---|
+| [RAG Document Assistant](./projects/rag-document-assistant/) | PDF ingestion, retrieval, grounded Q&A, optional local Ollama |
+| [AI Resume & Job Match Analyzer](./projects/resume-job-match-ai/) | NLP similarity, skill extraction, transparent matching |
+| [Customer Churn Prediction](./projects/customer-churn-prediction/) | ML pipelines, classification metrics, customer scoring |
+| [Vision Transformer Image Classifier](./projects/image-classification-vit/) | Pretrained ViT inference with Hugging Face |
+| [Financial News Sentiment Analyzer](./projects/financial-news-sentiment/) | FinBERT-based financial text classification |
+
+[Browse all five projects and setup instructions](./projects/README.md).
+
 ## Professional Experience
 
 - **IT Cell In-Charge / Institutional IT Operations:** IT support, network and system coordination, website and digital content management, troubleshooting, and technology support.
