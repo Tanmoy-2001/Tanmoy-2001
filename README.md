@@ -91,12 +91,17 @@ I am an MCA graduate focused on software development, data analytics, and applie
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tanmoy-2001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy-2001&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Tanmoy-2001&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="75%"/>
+<img src="./assets/activity-overview.svg" alt="Software, data and AI portfolio overview" width="100%"/>
 
 </div>
+
+For live and accurate contribution information, use GitHub's native activity pages:
+
+- [Contribution calendar and activity overview](https://github.com/Tanmoy-2001?tab=overview)
+- [Public repositories](https://github.com/Tanmoy-2001?tab=repositories)
+- [Contribution graph](https://github.com/Tanmoy-2001)
+
+*The graphic above is a static portfolio visual stored in this repository, not a live statistics report. Third-party statistics cards have been removed to avoid broken external image dependencies.*
 
 ## Connect
 
