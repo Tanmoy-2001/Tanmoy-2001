@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Tanmoy Mishra | Software Developer, Data and AI" width="100%"/>
+<img src="https://raw.githubusercontent.com/Tanmoy-2001/Tanmoy-2001/main/assets/profile-banner.svg" alt="Tanmoy Mishra | Software Developer, Data and AI" width="100%"/>
 
 ### Software Development · Data Analytics · AI/ML
 
@@ -27,7 +27,12 @@ I am an MCA graduate focused on software development, data analytics, and applie
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,php,mysql,html,css,js,react,git,github,linux,docker,vscode" alt="Technology skills"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
 </div>
 
