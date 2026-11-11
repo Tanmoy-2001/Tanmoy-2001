@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#071426"/><stop offset="1" stop-color="#201447"/></linearGradient><linearGradient id="a"><stop stop-color="#27c5ff"/><stop offset="1" stop-color="#9b7bff"/></linearGradient></defs>
+<rect width="1100" height="300" rx="22" fill="url(#b)"/><rect x="1" y="1" width="1098" height="298" rx="21" fill="none" stroke="#3d8dcb"/>
+<g font-family="Arial,sans-serif">
+<text x="48" y="55" fill="#8bdcff" font-size="16" letter-spacing="4">GITHUB PORTFOLIO</text>
+<text x="48" y="102" fill="#fff" font-size="32" font-weight="700">Building with code, data &amp; AI</text>
+<text x="48" y="137" fill="#b8c9e6" font-size="17">Explore repositories, projects and development activity</text>
+<g transform="translate(48 180)">
+<rect width="300" height="76" rx="12" fill="#10294a" stroke="#2b8fc5"/><text x="20" y="31" fill="#55d5ff" font-size="15" font-weight="700">01  SOFTWARE</text><text x="20" y="55" fill="#dceaff" font-size="14">Python · Java · PHP · SQL</text>
+<rect x="320" width="300" height="76" rx="12" fill="#18264d" stroke="#5b74d8"/><text x="340" y="31" fill="#9eafff" font-size="15" font-weight="700">02  DATA</text><text x="340" y="55" fill="#dceaff" font-size="14">Pandas · Analytics · MySQL</text>
+<rect x="640" width="300" height="76" rx="12" fill="#28204e" stroke="#8e6ee5"/><text x="660" y="31" fill="#c6a8ff" font-size="15" font-weight="700">03  AI / ML</text><text x="660" y="55" fill="#dceaff" font-size="14">NLP · Computer Vision · ML</text>
+</g></g></svg>
